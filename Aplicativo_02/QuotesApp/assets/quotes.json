@@ -1,0 +1,24 @@
+[
+    {
+      "author": "Shaco",
+      "quote": "E para o meu próximo truque, eu farei voce desaparecer!",
+      "image": "./assets/shaco.png"
+    },
+    {
+      "author": "Shacoringa",
+      "quote": "Agora você me vê, agora você não vê!",
+      "image": "./assets/shacoringa.png"
+    },
+    {
+      "author": "Zed",
+      "quote": "A lâmina que não se vê é a mais mortífera",
+      "image": "./assets/zed.png"
+    },
+
+    {
+      "author": "Soraka",
+      "quote": "Sim, aquilo era uma banana. Ninguém espera por uma banana!",
+      "image": "./assets/soraka.png"
+    }
+  ]
+  
